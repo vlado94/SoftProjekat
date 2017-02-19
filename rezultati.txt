@@ -1,0 +1,15 @@
+video ime	nas zbir	njihov zbir	uspeh
+video 0 : 	14		14		4/4
+video 1 : 	69		61		13/14 	//1 prepozna kao 9 i to je to
+video 2 : 	55		59		12/13
+video 3 : 	72		72		13/13
+video 4 : 	42		40		11/12
+video 5 : 	48		43		12/13
+video 6 : 	66		66		15/15
+video 7 : 	50		50		11/11
+video 8 : 	65		62		18/19
+video 9 : 	70		69		14/15
+
+
+
+
